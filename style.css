@@ -832,8 +832,8 @@ footer .social a{
         margin-left: 6px;
     }
     .home_img {
-        width: 100px;
-        height: 100px;
+        width: 250px;
+        height: 250px;
     }
     .education_box::before{
         left: 20px;
